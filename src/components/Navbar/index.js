@@ -9,9 +9,8 @@ export default function Navbar() {
             </header>
 
             <nav>
-                <a href="#">about</a>
-                <a href="./contact.html">contact</a>
-                <a href="./works.html">works</a>
+                <a href="/">About</a>
+                <a href="/gallery">Gallery</a>
             </nav>
         </div>
     )
